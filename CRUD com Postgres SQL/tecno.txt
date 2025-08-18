@@ -1,0 +1,2 @@
+Tecnologias envolvidas: Python, CustomTkinter e PostgresSQL.
+Ideia: Fazer um programa de Create, Read, Update and Delete.

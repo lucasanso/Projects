@@ -1,0 +1,2 @@
+Tecnologias envolvidas: Python, OO e Customtkinter.
+Ideia: Fazer uma to-do list aplicando conhecimentos em orientação a objetos.

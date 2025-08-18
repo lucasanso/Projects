@@ -1,0 +1,2 @@
+Tecnologias envolvidas: Python, Postman e CustomTkinter.
+Ideia: Consumir uma API de catálogo de filmes e elaborar uma interface para que o usuário consiga pesquisar um filme dentre os disponíveis.

@@ -1,0 +1,2 @@
+Tecnologias envolvidas: Python, Pandas, NumPy e CustomTkinter.
+Ideia: Analisar dados e interpretar disparidade entre escolas públicas e escolas particulares.

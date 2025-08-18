@@ -1,0 +1,2 @@
+Tecnologias envolvidas: Python e CustomTkinter.
+Ideia: Fazer uma interface elegante esteticamente em que os botões e interações com usuários apenas imprima mensagens, não necessariamente existirá uma funcionalidade.

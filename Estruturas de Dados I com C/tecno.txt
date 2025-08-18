@@ -1,0 +1,2 @@
+Tecnologias envolvidas: C.
+Ideia: Fazer 3 bibliotecas C, em que cada uma corresponderá a uma estrutura de dados diferente. Headers para as libs: linked list, stack and queue. Salvar Dados Inseridos em um arquivo.
